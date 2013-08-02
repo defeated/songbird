@@ -23,4 +23,5 @@ songbird.identify ->
   songbird.sonar [
     'litmusapp', 'litmus.com', 'helloscoop', 'litmus.com/scope',
     'emailchecklist.org', 'emailclientmarketshare.com', 'websitejoyride.com',
+    '#tedc13'
   ]
