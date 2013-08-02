@@ -21,5 +21,6 @@ songbird.identify ->
 
   # TODO this could be data driven
   songbird.sonar [
-    'litmusapp', 'litmus.com', 'helloscoop', 'litmus.com/scope'
+    'litmusapp', 'litmus.com', 'helloscoop', 'litmus.com/scope',
+    'emailchecklist.org', 'emailclientmarketshare.com', 'websitejoyride.com',
   ]
