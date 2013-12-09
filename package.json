@@ -1,6 +1,10 @@
 {
   "name": "songbird",
   "main": "./lib/songbird",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defeated/songbird"
+  },
   "bin": {
     "songbird": "./bin/songbird"
   },
